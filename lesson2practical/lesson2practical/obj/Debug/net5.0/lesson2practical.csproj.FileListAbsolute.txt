@@ -13,3 +13,4 @@ C:\Programmēšana\lesson2practical\lesson2practical\lesson2practical\obj\Debug\
 C:\Programmēšana\lesson2practical\lesson2practical\lesson2practical\obj\Debug\net5.0\ref\lesson2practical.dll
 C:\Programmēšana\lesson2practical\lesson2practical\lesson2practical\obj\Debug\net5.0\lesson2practical.pdb
 C:\Programmēšana\lesson2practical\lesson2practical\lesson2practical\obj\Debug\net5.0\lesson2practical.genruntimeconfig.cache
+C:\Programmēšana\lesson2practical\lesson2practical\lesson2practical\obj\Debug\net5.0\lesson2practical.csproj.AssemblyReference.cache
